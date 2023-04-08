@@ -1,0 +1,13 @@
+Calculadora: Crea una calculadora que permita realizar operaciones matemáticas básicas, como suma, resta, multiplicación y división.
+
+Lista de tareas: Crea una aplicación que permita al usuario agregar tareas a una lista y marcarlas como completadas cuando se han realizado.
+
+Temporizador: Crea un temporizador que permita al usuario establecer un tiempo determinado y cuente hacia atrás hasta que se alcance el tiempo establecido.
+
+Juego de memoria: Crea un juego de memoria que muestre una serie de objetos en la pantalla y pida al usuario que los recuerde en el orden correcto.
+
+Generador de contraseñas: Crea un generador de contraseñas que permita al usuario establecer la longitud y la complejidad de la contraseña generada.
+
+Conversor de unidades: Crea una aplicación que permita al usuario convertir unidades de medida, como kilómetros a millas o grados Celsius a Fahrenheit.
+
+Visualizador de imágenes: Crea una aplicación que permita al usuario cargar y visualizar imágenes en la pantalla.
